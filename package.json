@@ -1,11 +1,11 @@
 {
-  "name": "personal-site",
+  "name": "missions",
   "version": "3.0.1",
-  "homepage": "https://mldangelo.com/",
+  "homepage": "https://iflymissions.com/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/iflymissions/missions.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
