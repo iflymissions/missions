@@ -19,8 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Adrienne. I am an engineer with more than a decade of experience in the aerospace industry.
-        I have received my FAA part 107 commercial drone license and started I Fly Missions to bring my expertise to you.
+      <p>Hi, I&apos;m Adrienne, an engineer with more than a decade of experience in aerospace.
+        I have an FAA part 107 commercial drone license and now offer my expertise to you.
       </p>
       <ul className="actions">
         <li>
