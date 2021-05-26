@@ -15,7 +15,7 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'https://facebook.com/md',
+    link: 'https://facebook.com/',
     label: 'Facebook',
     icon: faFacebookF,
   },
@@ -30,7 +30,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/michael-d-angelo',
+    link: 'https://angel.co/',
     label: 'Angel List',
     icon: faAngellist,
   },
