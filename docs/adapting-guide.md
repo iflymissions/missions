@@ -85,6 +85,6 @@ Here are answers to questions I've been asked at least twice. I've attempted to 
 
     `echo "*\n" > .eslintignore` Although I really don't recommend it. Linters are good. They help prevent errors, enforce uniform style so that you can spend less time thinking about formatting and more time reading code, and eliminate easy nits for code reviews. If the rules aren't working for you, you should change them. See eslint's documentation [here](https://eslint.org/docs/about/) for more information.
 
-8. Why is my website rendering the readme file?
+8. Why is my website rendering the readme file? Good question!
 
     See 1. above and make sure that `.nojekyll` still exists in `public`. This file directs github to not attempt to render the website with Jekyll.
