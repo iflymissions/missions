@@ -71,4 +71,5 @@ const checkPageComponent = async (page) => {
     expect(linkElement).toHaveTextContent(page.heading);
   };
 
+
 pages.forEach((page) => checkPageComponent(page));
