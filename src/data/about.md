@@ -1,7 +1,7 @@
 
 # Intro
 
-I am a founder and the CEO of [I Fly Missions](https://iflymissions.com) I ested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a founder and the CEO of [I Fly Missions](https://iflymissions.com) If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
