@@ -64,12 +64,12 @@ test('Renders 404 Page Component', () => {
 });
 
 const checkPageComponent = async (page) => {
-  test(`Renders ${page.route} Component`), () => {
+  test(`Renders ${page.route} Component`, () => {
     window.scrollTo = () => {}; // TODO mock this later
     renderWithRouter(<page.component />, { route: page.route });
     const linkElement = screen.getByTestId('heading');
     expect(linkElement).toHaveTextContent(page.heading);
-  };
-
+  });
+};
 
 pages.forEach((page) => checkPageComponent(page));
