@@ -69,7 +69,7 @@ const checkPageComponent = async (page) => {
     renderWithRouter(<page.component />, { route: page.route });
     const linkElement = screen.getByTestId('heading');
     expect(linkElement).toHaveTextContent(page.heading);
-  };
+ });
 };
 
 pages.forEach((page) => checkPageComponent(page));
