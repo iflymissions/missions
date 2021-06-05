@@ -6,9 +6,9 @@ const data = [
     image: '/images/projects/.jpg',
     date: '2015-11-20',
     desc:
-      'Description here. '
-      + ', '
-      +  ' '
+      'Description here.'
+      + ','
+      + ''
       + '.',
   },
   {
@@ -19,7 +19,7 @@ const data = [
     date: '2015-09-20',
     desc:
       ''
-      + ', '
+      + ','
       + '.',
   },
   {
@@ -29,8 +29,8 @@ const data = [
     image: '/images/projects/.jpg',
     date: '2015-06-28',
     desc:
-      ' '
-      + '. '
+      ''
+      + '.'
       + '.',
   },
   {
@@ -39,8 +39,8 @@ const data = [
     image: '/images/projects/.jpg',
     date: '2015-05-15',
     desc:
-      '. '
-      + ' '
+      '.'
+      + ''
       + '.',
   },
 ];
