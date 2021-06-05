@@ -8,7 +8,7 @@ const data = [
     desc:
       'Description here. '
       + ', '
-      +  '
+      +  ' '
       + '.',
   },
   {
