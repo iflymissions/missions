@@ -9,7 +9,7 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'meyers',
+  'ameyers',
 ];
 
 const useInterval = (callback, delay) => {
