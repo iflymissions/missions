@@ -3,12 +3,12 @@ const positions = [
     company: 'STS Aviation Group',
     position: 'Maintainability/Reliability Engineer',
     link: 'https://stsaviationgroup.com',
-    daterange: 'September 2020 - Present',
+    daterange: 'October 2020 - Present',
     points: [
-      '.',
-      '.',
-      '.',
-      '.',
+      'Quality Control reviews of aircraft maintenance documentation: Service Bulletins, Airworthiness Directives, Maintenance compliance records.',
+      'Audits of Maintenance Documentation.',
+      'Commercial aviation project engineer, self-managed deadlines and milestones.',
+      'Edit and review Maintenance documentation.',
     ],
   },
   {
