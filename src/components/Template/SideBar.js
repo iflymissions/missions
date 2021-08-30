@@ -13,14 +13,14 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>I Fly Missions</h2>
-        <p><a href="mailto:iflymissions@gmail.com">iflymissions@gmail.com</a></p>
+        <p><a href="mailto:ameyers@iflymissions.com">ameyers@iflymissions.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Adrienne, an engineer with more than a decade of experience in aerospace.
-        I have an FAA part 107 commercial drone license and now offer my expertise to you.
+      <p>Hi, I&apos;m Adrienne, an electronics engineer with more than a decade of experience in aerospace.
+        I have been studying drones and flying recreationally for over 4 years. I recently received my FAA part 107 Remote license and now offer my professional drone services to you.
       </p>
       <ul className="actions">
         <li>
