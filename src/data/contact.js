@@ -40,7 +40,7 @@ const data = [
     icon: faTwitter,
   },
   {
-    link: 'mailto:iflymissions@gmail.com',
+    link: 'mailto:ameyers@iflymissions.com',
     label: 'Email',
     icon: faEnvelope,
   },
