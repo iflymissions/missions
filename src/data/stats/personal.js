@@ -28,7 +28,7 @@ const data = [
     key: 'countries',
     label: 'Countries visited',
     value: 5,
-  },z=2'
+  },
   {
     key: 'location',
     label: 'Current city',
