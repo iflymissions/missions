@@ -20,8 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Adrienne, an Aviation Maintenance specialist.
-      I have been flying drones recreationally for over 4 years.
-      I am a FAA licensed remote pilot now offer my professional drone services to you.
+        I have been flying drones recreationally for over 4 years.
+        I am a FAA licensed remote pilot and now offer my professional drone services to you.
       </p>
       <ul className="actions">
         <li>
