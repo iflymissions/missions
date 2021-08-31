@@ -9,7 +9,7 @@ Flying mapping and inspection missions. Infrasture, Construction, real estate an
 
 # Some history about me
 
-- Experienced professional since 2005 in the field of aircraft engineering
+- Experienced professional since 2005 in the field of Aerospace
 
 - Ten+ years’ experience in program, project, and vendor management
 
